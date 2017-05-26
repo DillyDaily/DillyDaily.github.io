@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learning to create a Page to host my Blog
 
 You can use the [editor on GitHub](https://github.com/DillyDaily/DillyDaily.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
